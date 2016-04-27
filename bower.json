@@ -1,0 +1,22 @@
+{
+  "name": "flot-import",
+  "homepage": "https://github.com/SephVelut/dash-sidemenu",
+  "authors": [
+    "seph <sephvelut@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flot.tooltip": "^0.8.7",
+    "Flot": "flot#^0.8.3",
+    "flot.curvedlines": "^1.1.1"
+  }
+}
